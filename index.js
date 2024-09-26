@@ -1,4 +1,4 @@
-const run = require('../dbConnection')
+const run = require('./dbConnection')
 const express = require('express')
 
 const PORT = process.env.PORT || 3000;
